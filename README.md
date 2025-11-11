@@ -1,4 +1,4 @@
-# Hand Tracking AR UI - Advanced Edition
+# Hand Tracking AR UI 
 
 An advanced Augmented Reality Hand Tracking interface optimized for MacBook M1. This application uses computer vision to detect hand gestures and overlays futuristic holographic UI elements in real-time.
 
